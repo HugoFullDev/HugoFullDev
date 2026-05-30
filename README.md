@@ -20,4 +20,4 @@ public class Hugo extends Developer {
     String disponibilidad = "Open to work 🟢";
 }
 ```
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevBobby2&theme=dark&hide_border=true)](https://git.io/streak-stats)
